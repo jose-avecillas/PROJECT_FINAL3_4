@@ -1,0 +1,16 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+plotly
+fastapi
+uvicorn
+pydantic
+joblib
+pytest
+transformers
+datasets
+evaluate
+torch
+accelerate
+sentencepiece
